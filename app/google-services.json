@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "137703642134",
+    "project_id": "social-c7051",
+    "storage_bucket": "social-c7051.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137703642134:android:2b2475003c4ef2ed5e1137",
+        "android_client_info": {
+          "package_name": "com.avyay.social"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137703642134-t6ppcguk6941v8g8ae9kevmj62dt4gge.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.avyay.social",
+            "certificate_hash": "c0051db7836fc5f76fe850b3596f0e9ba55dec2f"
+          }
+        },
+        {
+          "client_id": "137703642134-pkqr8o9emrpp2ljscu9kbfaui1b9l8b6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB51tc_3NVUVbYUD8Jg6Y1nO28_nCt2Bsg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137703642134-pkqr8o9emrpp2ljscu9kbfaui1b9l8b6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
